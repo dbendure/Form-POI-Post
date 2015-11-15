@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name           C&C Tiberium Alliances Info - Updated Layout
-// @author         Soera and TheStriker(OriginalAuthor) and dbendure
+// @author         Soera and TheStriker(OriginalAuthor) and then later... dbendure
 // @description    Relay your levels etc in a wink of an eye.
 // @description    Alt+1 - Insert to message/chat/post all your bases/cities 1 - 10 info
 // @description    Alt+2 - Insert to message/chat/post all your bases/cities 10 - 20 info
